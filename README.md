@@ -19,4 +19,4 @@
 - React Native
 - Mobile Robotics 🤖 
 
-[Email me!!](mailto:ezeavictorchukwuebuka@gmail.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/ezea-victor-chukwuebuka-abbb19173/">Linkedin</a> | <a href="https://victorezea.vercel.app/">portfolio</a> 
+[Email me!!](mailto:ezeavictorchukwuebuka@gmail.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/victorchukwuebukaezea/">Linkedin</a> | <a href="https://victorezea.vercel.app/">portfolio</a> 
