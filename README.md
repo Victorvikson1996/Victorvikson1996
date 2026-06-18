@@ -5,18 +5,20 @@
 
 #### What I work on these days :briefcase:
 
+- Electric Vehicle and EV Charging Softwares 
+- OCPP Protocols
+- EV chargers
 
 #### What I'm learning :book:
 
 
-- Swift UI/iOS
--  VR/AR
-
+- Electric Vehicle and EV Charging Softwares 
+- OCPP Protocols 
 #### You can ask me about :fax:
 
-- TypeScript/JavaScript
-- Swift UI
-- React Native
+- Mobile Engineering
+- Embedded Systems Security
+- EV Chargers
 - Mobile Robotics 🤖 
 
 [Email me!!](mailto:ezeavictorchukwuebuka@gmail.com) |<a href="https://twitter.com/Victorebukaezea">Twitter</a> | <a href="https://www.linkedin.com/in/victorchukwuebukaezea/">Linkedin</a> | <a href="https://victorezea.vercel.app/">portfolio</a> 
