@@ -8,6 +8,7 @@
 - Electric Vehicle and EV Charging Softwares 
 - OCPP Protocols
 - EV chargers
+- Hardware Abstraction Layer (HAL) Rust and C++
 
 #### What I'm learning :book:
 
