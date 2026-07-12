@@ -72,7 +72,6 @@ I'm an **Electronics & Computer Engineer**, **R&D Engineer**, and **Mobile & Emb
 - 📧 Email: <mailto:ezeavictorchukwuebuka@gmail.com>
 - 🐦 X (Twitter): https://twitter.com/Victorebukaezea
 - 💼 LinkedIn: https://www.linkedin.com/in/victorchukwuebukaezea/
-- 🌍 Portfolio: https://victorezea.vercel.app
 
 ---
 
