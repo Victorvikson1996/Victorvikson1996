@@ -14,7 +14,7 @@ I'm an **Electronics & Computer Engineer**, **R&D Engineer**, and **Mobile & Emb
 - ⚙️ Hardware Abstraction Layer (HAL) in Rust & C++
 - 🔌 OCPP (Open Charge Point Protocol)
 - 📡 Bluetooth Low Energy (BLE)
-- 🌐 IoT Systems
+- 🌐 IoT Systems and NFC
 
 ---
 
